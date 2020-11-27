@@ -1,0 +1,12 @@
+{
+    "name": "daudau/pitm",
+    "authors": [
+        {
+            "name": "bangnokia",
+            "email": "bangnokia@gmail.com"
+        }
+    ],
+    "require": {
+        "react/http": "^1.1"
+    }
+}
